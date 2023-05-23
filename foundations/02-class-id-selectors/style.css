@@ -1,0 +1,22 @@
+p {
+   background-color: rgb(243, 136, 171); 
+  
+}
+.another {
+    font-family: verdana; 
+    fallback:sans-serif;}
+    #title {
+        color: rgb(0, 0, 255);
+        font-size: 36px;
+        
+        
+}
+.cooler {font-size: 24px;
+
+}
+#content {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+   
+    }
